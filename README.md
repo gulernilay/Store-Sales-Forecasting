@@ -38,7 +38,7 @@ Bu projede, mağaza satış verileri üzerinde veri analizi ve tahminleme çalı
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost
    ```
 2. Proje dosyalarını aynı klasöre yerleştirin:
-   - `sales-forecasting-optimization-final.ipynb`
+   - `Sale_Forecasting_Main.ipynb`
    - `stores_sales_forecasting.csv`
 3. Notebook'u Jupyter veya VS Code ile açın ve hücreleri sırasıyla çalıştırın.
 
